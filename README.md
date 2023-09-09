@@ -1,5 +1,6 @@
 # Weather Dashboard
-R Shiny dashboard developed using the <a href="https://appsilon.github.io/semantic.dashboard/">semantic.dashboard</a> package by <a href = "https://github.com/Appsilon/">Appsilon</a>
+R Shiny dashboard developed using the <a href="https://appsilon.github.io/semantic.dashboard/">semantic.dashboard</a> package by <a href = "https://github.com/Appsilon/">Appsilon</a>.<br>
+<a href="https://sankhadeepdutta.shinyapps.io/Weather_Dashboard_Fomantic/">Click here</a> to open the dashboard.
 <img src="https://github.com/pedrocoutinhosilva/imola/blob/main/man/figures/logo.svg" align="right" alt="" width="130" style="max-width: 100%;">
 <img src="https://github.com/Appsilon/semantic.dashboard/blob/develop/man/figures/hexsticker.png" align="right" alt="" width="130" style="max-width: 100%;">
 #
